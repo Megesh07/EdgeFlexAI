@@ -1,7 +1,3 @@
-Of course. Here is a professional `README.md` file that summarizes your work for Week 1. You can copy and paste this into the `README.md` file in your GitHub repository.
-
----
-
 # EdgeFlex AI: Smart Household Energy Optimization
 
 This repository documents the development of an AI system to forecast household energy consumption and optimize appliance scheduling. This `README` covers the progress made in Week 1.
@@ -30,6 +26,3 @@ These two models will be used in conjunction during the final optimization stage
 ### Files
 * `EdgeFlex_AI.ipynb`: The main Jupyter Notebook containing all the code and analysis for Week 1.
 * `Datasets/`: Folder containing the raw data (tracked using Git LFS).
-
-### Next Steps
-With the data fully prepared, Week 2 will focus on building, training, and evaluating our first machine learning models to forecast energy consumption.
